@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Crypthium123&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Systems%20%26%20Web%20Developer%20%7C%20Linux%20Advocate&descAlignY=58&descColor=565f89" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Crypthium&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Systems%20%26%20Web%20Developer%20%7C%20Linux%20Advocate&descAlignY=58&descColor=565f89" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Systems+%26+Web+Developer;Open+Source+Enthusiast;Linux+Advocate;Builder.+Breaker.+Understander.)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
 whoami
 Crypthium — systems & web developer, open source contributor, Linux daily driver.
@@ -26,7 +26,19 @@ Building things, breaking things, understanding things.
 
 ---
 
-## 💻 Tech Stack
+## 🔗 Links
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crypthium123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yourportfolio.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+</div>
+
+---
+
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -44,6 +56,15 @@ Building things, breaking things, understanding things.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+## 👩‍💻 Currently
+
+- 🔭 Je travaille sur des projets **systèmes & web**
+- 🧠 J'apprends **la programmation bas-niveau et la sécurité**
+- 💬 Parle-moi de **Linux, Python, C, ou dev web**
+- ⚡️ Fun fact : je préfère le terminal à tout IDE
 
 ---
 
@@ -79,6 +100,30 @@ Building things, breaking things, understanding things.
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Crypthium123&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Crypthium123)
 
 </div>
+
+---
+
+## ❓ FAQ
+
+#### C'est quoi ton setup ?
+Linux (daily driver), VS Code, terminal JetBrains Mono, thème Tokyo Night partout.
+
+#### Tu es dispo pour des collabs ou projets ?
+Oui ! N'hésite pas à ouvrir une issue ou m'envoyer un message directement.
+
+#### Tu acceptes les contributions sur tes repos ?
+Absolument — les PRs et suggestions sont les bienvenues sur tous mes projets open source.
+
+---
+
+## 🙏 Acknowledgements
+
+- [shields.io](https://shields.io/) — pour les badges
+- [capsule-render](https://github.com/kyechan99/capsule-render) — pour le header animé
+- [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) — pour l'animation de texte
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — pour les stats
+- [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) — pour les trophées
+- [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) — pour le graphe d'activité
 
 ---
 
