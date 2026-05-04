@@ -37,7 +37,7 @@
 
 ![Crypthium's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberGamecst&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypthium&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGamecst&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberGamecst&theme=tokyonight&hide_border=true)
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Crypthium&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=CyberGamecst&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Crypthium&theme=tokyo-night&hide_border=true)](https://github.com/Crypthium)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberGamecst&theme=tokyo-night&hide_border=true)](https://github.com/CyberGamecst)
 
 </div>
 
