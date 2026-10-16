@@ -45,8 +45,8 @@ I'm a student in **BUT Réseaux & Télécommunications**, learning networks and 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Crypthium123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Crypthium123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crypthium123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypthium123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
