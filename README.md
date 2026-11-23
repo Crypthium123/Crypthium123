@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Crypthium&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Systems%20%26%20Web%20Developer&descAlignY=58&descColor=565f89" width="100%" alt="Crypthium header" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Systems+%26+Web+Developer;Linux+Advocate;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Crypthium&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Systems%20%26amp%3B%20Web%20Developer&descAlignY=58&descColor=565f89" width="100%" alt="Crypthium header" />
 </a>
 
 </div>
