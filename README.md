@@ -1,8 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Crypthium&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Systems%20%26%20Web%20Developer&descAlignY=58&descColor=565f89)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Crypthium&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Systems%20%26%20Web%20Developer&descAlignY=58&descColor=565f89" width="100%" alt="Crypthium header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Systems+%26+Web+Developer;Linux+Advocate;Open+Source+Enthusiast)](https://git.io/typing-svg)
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Systems+%26+Web+Developer;Linux+Advocate;Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -10,7 +12,7 @@
 
 ## About me
 
-I'm a student in **BUT Réseaux & Télécommunications**, learning networks and programming in general. Linux is my daily driver and most of my time goes to a terminal.
+I'm a student in **BUT Réseaux & Télécommunications** (Networks & Telecommunications), studying networking and learning programming along the way. Linux is my daily driver, and I spend most of my time in a terminal.
 
 **What I'm learning**
 - Networking (R&T studies)
@@ -37,7 +39,7 @@ I'm a student in **BUT Réseaux & Télécommunications**, learning networks and 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -45,8 +47,8 @@ I'm a student in **BUT Réseaux & Télécommunications**, learning networks and 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crypthium123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypthium123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Crypthium123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypthium123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 
 </div>
 
@@ -65,7 +67,7 @@ I'm a student in **BUT Réseaux & Télécommunications**, learning networks and 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="footer" />
 
 *"Break it. Fix it. Understand it."*
 
