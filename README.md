@@ -1,31 +1,21 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/donut.svg" width="520" alt="spinning ascii donut" />
+</p>
 
-<img src="./assets/hero.svg" width="100%" alt="Crypthium — Networks · Systems · Web" />
+### hi, i'm crypthium
 
-<br><br>
+first year of BUT Réseaux & Télécoms, in France.
 
-<img src="./assets/neofetch.svg" width="100%" alt="neofetch" />
+i run linux every day and spend most of my time in a terminal. i write C to understand what the machine is actually doing, python when i just need something to work, and bash for everything in between. my favorite way to learn something is to break it and then figure out why it broke.
 
-<br><br>
+**what i'm on right now**
 
-<img src="./assets/packet.svg" width="100%" alt="IPv4 header" />
+- [VERIDIAN_classified_dossier](https://github.com/Crypthium123/VERIDIAN_classified_dossier): a cicada-style puzzle. good luck.
+- getting properly comfortable with C: pointers, memory, all of it
+- networking for school: subnetting, routing, packet tracer labs
 
-<br><br>
+**stack**: C, Python, Bash, HTML/CSS, Linux, Git
 
-<img src="./assets/nmap.svg" width="100%" alt="nmap scan — stack" />
+**talk to me**: [discord](https://discord.com/users/975312565141917696)
 
-<br><br>
-
-<img src="./assets/traceroute.svg" width="100%" alt="traceroute — learning path" />
-
-<br><br>
-
-<a href="https://github.com/Crypthium123"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="GitHub" /></a>
-<a href="https://discord.com/users/975312565141917696"><img src="https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=bb9af7" alt="Discord" /></a>
-<img src="https://komarev.com/ghpvc/?username=Crypthium123&color=1a1b27&style=for-the-badge&label=PACKETS+RECEIVED" alt="profile views" />
-
-<br><br>
-
-<img src="./assets/footer.svg" width="100%" alt="exit" />
-
-</div>
+<sub>the donut is <a href="https://www.a1k0n.net/2011/07/20/donut-math.html">a1k0n's donut.c</a>, ported to python and baked frame by frame into an svg. no gif, no js. the script is in <code>assets/donut.py</code>.</sub>
