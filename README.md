@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Crypthium&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Systems%20%26%20Web%20Developer&descAlignY=58&descColor=565f89" width="100%" alt="Crypthium header" />
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Crypthium&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Systems%20%26amp%3B%20Web%20Developer&descAlignY=58&descColor=565f89" width="100%" alt="Crypthium header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Crypthium&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Systems%20%26amp%3B%20Web%20Developer&descAlignY=58&descColor=565f89" width="100%" alt="Crypthium header" />
 </a>
 
 </div>
