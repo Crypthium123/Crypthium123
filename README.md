@@ -25,8 +25,8 @@ Download [`crypthium.pcap`](assets/crypthium.pcap) and open it in Wireshark — 
 <img src="assets/live.svg" width="100%" alt="recent public activity" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crypthium123/Crypthium123/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Crypthium123/Crypthium123/output/snake.svg" width="100%" alt="snake eating the contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <img src="assets/snake.svg" width="100%" alt="snake eating the contribution graph" />
 </picture>
 
 ## `> ping`
