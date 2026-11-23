@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="272" viewBox="0 0 820 272">
+<style>
+text{font-family:'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace;font-size:14px}
+.l{opacity:0;animation:in .4s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7aa2f7" stop-opacity=".55"/><stop offset="1" stop-color="#bb9af7" stop-opacity=".25"/></linearGradient></defs>
+<rect x="1" y="1" width="818" height="270" rx="14" fill="#1a1b27" stroke="url(#g)" stroke-width="1.5"/>
+<path d="M1 15 a14 14 0 0 1 14 -14 H805 a14 14 0 0 1 14 14 V40 H1 Z" fill="#16161e"/>
+<line x1="1" y1="40" x2="819" y2="40" stroke="#2f334d"/>
+<circle cx="24" cy="21" r="6" fill="#f7768e"/><circle cx="44" cy="21" r="6" fill="#e0af68"/><circle cx="64" cy="21" r="6" fill="#9ece6a"/>
+<text x="410.0" y="25.5" text-anchor="middle" fill="#565f89" style="font-size:12.5px">crypthium@github: ~ — traceroute</text>
+<text class="l" x="28" y="72" style="animation-delay:0.25s" xml:space="preserve"><tspan fill="#9ece6a" font-weight="700">crypthium</tspan><tspan fill="#565f89">@</tspan><tspan fill="#7aa2f7" font-weight="700">github</tspan><tspan fill="#565f89">:</tspan><tspan fill="#bb9af7">~</tspan><tspan fill="#565f89">$ </tspan><tspan fill="#c0caf5">traceroute future</tspan></text><text class="l" x="28" y="96" style="animation-delay:0.37s" xml:space="preserve"><tspan fill="#565f89">traceroute to future (∞), 30 hops max</tspan></text><text class="l" x="28" y="120" style="animation-delay:0.49s" xml:space="preserve"><tspan fill="#565f89"> 1  </tspan><tspan fill="#7dcfff">linux.shell     </tspan><tspan fill="#c0caf5">  0.4 ms   </tspan><tspan fill="#9ece6a">[  OK  ]  </tspan><tspan fill="#565f89">daily driver</tspan></text><text class="l" x="28" y="144" style="animation-delay:0.61s" xml:space="preserve"><tspan fill="#565f89"> 2  </tspan><tspan fill="#7dcfff">network.rt      </tspan><tspan fill="#c0caf5">  1.2 ms   </tspan><tspan fill="#9ece6a">[  OK  ]  </tspan><tspan fill="#565f89">BUT R&amp;T — in progress</tspan></text><text class="l" x="28" y="168" style="animation-delay:0.73s" xml:space="preserve"><tspan fill="#565f89"> 3  </tspan><tspan fill="#7dcfff">python.tools    </tspan><tspan fill="#c0caf5">  2.1 ms   </tspan><tspan fill="#e0af68">[ WIP  ]  </tspan><tspan fill="#565f89">scripts &amp; small tools</tspan></text><text class="l" x="28" y="192" style="animation-delay:0.85s" xml:space="preserve"><tspan fill="#565f89"> 4  </tspan><tspan fill="#7dcfff">web.html-css    </tspan><tspan fill="#c0caf5">  2.7 ms   </tspan><tspan fill="#e0af68">[ WIP  ]  </tspan><tspan fill="#565f89">building pages</tspan></text><text class="l" x="28" y="216" style="animation-delay:0.97s" xml:space="preserve"><tspan fill="#565f89"> 5  </tspan><tspan fill="#7dcfff">c.lowlevel      </tspan><tspan fill="#c0caf5">  3.8 ms   </tspan><tspan fill="#e0af68">[ WIP  ]  </tspan><tspan fill="#565f89">pointers, memory, pain</tspan></text><text class="l" x="28" y="240" style="animation-delay:1.09s" xml:space="preserve"><tspan fill="#565f89"> 6  </tspan><tspan fill="#f7768e">* * *</tspan><tspan fill="#565f89">                        next hop unknown…</tspan></text>
+
+</svg>
